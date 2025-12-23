@@ -1,4 +1,5 @@
-Devcontainer setup for NVIDIA Reinforcement Learning with Verifiable Rewards Fine Tuning example
+Devcontainer setup for CUDA enabled workloads.   
+Includes a specific example for NVIDIA Reinforcement Learning with Verifiable Rewards Fine Tuning example
 
 For this blog post: https://blogs.nvidia.com/blog/rtx-ai-garage-fine-tuning-unsloth-dgx-spark/  
 Which linked to this Youtube video: https://www.youtube.com/watch?v=9t-BAjzBWj8   
